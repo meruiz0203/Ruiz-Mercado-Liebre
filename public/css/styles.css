@@ -236,6 +236,11 @@ border:0;
   align-self: center;
 
 }
+.recordar-usuario{
+  font-size: var(--font-18);
+  margin-bottom: 10px;
+  align-self: center;
+}
 
 button a{
   color: #FFF;
